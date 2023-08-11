@@ -1,0 +1,20 @@
+let dleFilter = {
+	path: window.location.pathname,
+	title: document.title,
+	content: false,
+	speedbar: false,
+	reset: false,
+	id: '',
+	original: {},
+	ajax: 0,
+	lazy: 1,
+	ajaxUrl: 1,
+	hideLoading: 0,
+	button: 1,
+	tail: 0,
+	ajaxNav: 1,
+	niceSelect: 0,
+	chosenSelect: 0,
+	ionSlider: 0,
+};
+
