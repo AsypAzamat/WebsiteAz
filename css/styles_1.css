@@ -1,0 +1,128 @@
+﻿/* DLE Friends v1.7*/
+ #no-friends {
+     padding: 6px;
+     border: 1px solid #C0D4DE;
+     background-color: #F3F7F9;
+     color: #507D98;
+     margin: 10px 0;
+}
+ .friends {
+     margin-bottom: 10px;
+}
+ .friends ul, .prof-list {
+     list-style: none;
+     margin-top: 10px;
+}
+ .friends li {
+     width: auto;
+     text-align: center;
+     float: left;
+     margin-right: 10px;
+}
+ .friends img {
+     border:2px solid #ccc;
+    display: block;
+     margin: 0 auto;
+     width: 100px;
+     height: 100px;
+     -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+}
+ .friends_table h3 {
+     margin-bottom: 6px;
+     line-height: 14px;
+     font-weight: bold;
+}
+ .friends_table h3 a span {
+     font-weight: normal;
+     color: #6C838E;
+}
+ .friends_table h3 a span:hover {
+     text-decoration: underline;
+}
+ .friends_table ul {
+     list-style: none;
+     margin: 0;
+     padding: 0;
+}
+ .friends_table td {
+     padding: 5px;
+     border-bottom: 1px solid #EEE;
+     vertical-align: top;
+}
+ .friends_table .active {
+     background-color: #F8F8F8;
+}
+ .contact_friends {
+     width: 200px;
+}
+ .contact_friends a, .contact_friends span {
+     display: block;
+     padding: 6px;
+     margin-bottom: 4px;
+     line-height: 11px;
+}
+ .contact_friends a:hover {
+     background-color: #DAE7ED;
+     text-decoration: none;
+}
+ .f_active:hover {
+     border-color: #ACCCDA;
+     background-color: #F4F8FA;
+     cursor: pointer;
+}
+ .friends_random {
+     padding:5px;
+}
+ .friends_random img {
+     border:2px solid #ccc;
+     height:55px;
+     width:55px;
+     -moz-border-radius:3px;
+     -webkit-border-radius:3px;
+     border-radius:3px;
+}
+ .friends_random a img {
+     opacity:0.7;
+     -moz-opacity:0.7;
+     filter:alpha(opacity=70);
+}
+ .friends_random a:hover img {
+     opacity:1.0;
+     -moz-opacity:1.0;
+     filter:alpha(opacity=100);
+}
+ .friends_ava img {
+     border:2px solid #ccc;
+     height:40px;
+     width:40px;
+     -moz-border-radius:3px;
+     -webkit-border-radius:3px;
+     border-radius:3px;
+}
+ .friends_ava a img {
+     opacity:0.7;
+     -moz-opacity:0.7;
+     filter:alpha(opacity=70);
+}
+ .friends_ava a:hover img {
+     opacity:1.0;
+     -moz-opacity:1.0;
+     filter:alpha(opacity=100);
+}
+ .f_list img {
+     border:2px solid #ccc;
+     -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border-radius:3px;
+}
+ .look_hide{
+     padding: 10px;
+     margin: 10px;
+     background-color: #E6FFE6;
+     border: 1px solid #70B070;
+     border-radius: 5px;
+     -webkit-border-radius: 5px;
+     -moz-border-radius: 5px 
+}
